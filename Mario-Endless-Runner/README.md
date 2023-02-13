@@ -4,15 +4,14 @@
 
 A endless runner web game, where you play as Mario and hava to jump pipes, developed using HTML, CSS and JavaScript.
 
+Click [here](https://zejsneto.github.io/Browser-Games/Mario-Endless-Runner/) to play!
+
 ---
 
 ## 👁️‍🗨️ Preview
-<p align="center">
-  <img src="Mario-Endless-Runner/repository-imgs/img01.png" />
+<p align="center" >
+  <img width="70%" src="/Mario-Endless-Runner/repository-imgs/img01.png" />
 </p>
-Link: [View Demo](https://zejsneto.github.io/Web-Games/Mario-Endless-Runner/)<br>
-
----
 
 ## 🛠️ **Technologies**
 
