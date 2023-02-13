@@ -1,4 +1,4 @@
-# WEb-Games
+# Web-Games
 
 ## ℹ️ Description
 
