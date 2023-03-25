@@ -10,7 +10,7 @@ Click [here](https://zejsneto.github.io/Web-Games/Mario-Endless-Runner/) to play
 
 ## 👁️‍🗨️ Preview
 <p align="center" >
-  <img width="70%" src="/Mario-Endless-Runner/repository-imgs/img01.png" />
+  <img src="/Mario-Endless-Runner/repository-imgs/gif01.gif" />
 </p>
 
 ## 🛠️ **Technologies**
