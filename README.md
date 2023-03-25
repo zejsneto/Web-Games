@@ -2,7 +2,7 @@
 
 ## ℹ️ Description
 
-Web games created from scratch or clones from other games, mostly made with HTML CSS and JavaScript.
+Web games created from scratch or clones from other games, made with HTML, CSS and JavaScript.
 
 ---
 
